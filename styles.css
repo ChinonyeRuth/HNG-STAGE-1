@@ -7,6 +7,10 @@ body {
   margin: 0;
   overflow: hidden; /* Prevent horizontal scroll bars */
 }
+div {
+  margin: auto;
+  margin-top: 50px;
+}
 
 .profile {
   background-color: #111; /* Slightly lighter black for the card */
